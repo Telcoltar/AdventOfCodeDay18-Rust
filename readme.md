@@ -1,4 +1,4 @@
-# Advent of Code Day 17 - Rust Version
+# Advent of Code Day 18 - Rust Version
 [Link to Advent of Code](https://adventofcode.com/)
 
 Again the Rust version of my Python solution. As in the Python solution I have
